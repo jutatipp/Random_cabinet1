@@ -1,0 +1,17 @@
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.Form1.resources
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.Properties.Resources.resources
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.csproj.GenerateResource.cache
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.AssemblyInfoInputs.cache
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.AssemblyInfo.cs
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.csproj.CoreCompileInputs.cache
+D:\Random_cabinet1\Random_box\bin\Debug\net8.0-windows\Random_box.exe
+D:\Random_cabinet1\Random_box\bin\Debug\net8.0-windows\Random_box.deps.json
+D:\Random_cabinet1\Random_box\bin\Debug\net8.0-windows\Random_box.runtimeconfig.json
+D:\Random_cabinet1\Random_box\bin\Debug\net8.0-windows\Random_box.dll
+D:\Random_cabinet1\Random_box\bin\Debug\net8.0-windows\Random_box.pdb
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.dll
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\refint\Random_box.dll
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.pdb
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\Random_box.genruntimeconfig.cache
+D:\Random_cabinet1\Random_box\obj\Debug\net8.0-windows\ref\Random_box.dll
