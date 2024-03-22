@@ -1,5 +1,6 @@
 
-`classDiagram
+```mermaid
+classDiagram
     class Form1 {
         -Control controller
         -Box box
@@ -35,4 +36,4 @@
     class CSV {
         +FileCsv(lists: string, products: int, sum: int): bool
     }
-    `
+    ```
