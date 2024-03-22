@@ -1,9 +1,9 @@
 
 ```mermaid
 classDiagram
-   form1 <|-- Control
-    form1 <|-- box
-    form1 <|-- csv
+   Form1 <|-- Control
+    Form1 <|-- Box
+    Form1 <|-- CSV
     class Form1 {
         -Control controller
         -Box box
